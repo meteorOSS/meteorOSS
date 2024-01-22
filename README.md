@@ -9,3 +9,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meteorOSS)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcard.jacoblin.cool/meteor-m2?theme=forest&font=Noto%20Serif%20Gurmukhi&ext=heatmap&site=cn)
