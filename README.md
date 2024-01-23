@@ -8,3 +8,4 @@
 
 **如果有任何错误的地方你愿意提出指教，我会以最虚心的态度去学习**
 
+![](https://raw.githubusercontent.com/meteorOSS/meteorOSS/main/assets/github-contribution-grid-snake.svg)
