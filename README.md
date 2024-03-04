@@ -4,6 +4,8 @@
 
 ![view](https://moe-counter.glitch.me/get/@meteorOSS.readme)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meteorOSS)](https://github.com/anuraghazra/github-readme-stats)
+
 学生，计算机相关修行中!
 
 **如果您愿意指出我的错误，我会以最虚心的态度去学习**
