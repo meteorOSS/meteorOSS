@@ -4,13 +4,6 @@
 
 # meteor  GitHub Profile 
 
-[![Lina's GitHub stats](https://github-readme-stats.vercel.app/api?username=meteorOSS)](https://github.com/anuraghazra/github-readme-stats)
-
-![view](https://moe-counter.glitch.me/get/@meteorOSS.readme)
-
-学生，计算机相关修行中!
-
-我把时间花在了:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2014%20mins-blue)
 
